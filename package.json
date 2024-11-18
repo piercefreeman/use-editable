@@ -1,9 +1,9 @@
 {
   "name": "@piercefreeman/use-editable",
   "description": "A small React hook to turn elements into fully renderable & editable content surfaces, like code editors, using contenteditable (and magic)",
-  "version": "2.3.3",
-  "main": "dist/use-editable.js",
-  "module": "dist/use-editable.es.js",
+  "version": "2.3.4",
+  "main": "dist/@piercefreeman/use-editable.js",
+  "module": "dist/@piercefreeman/use-editable.es.js",
   "types": "dist/types/index.d.ts",
   "source": "src/index.ts",
   "sideEffects": false,
@@ -19,9 +19,9 @@
     "react",
     "hook"
   ],
-  "repository": "https://github.com/FormidableLabs/use-editable",
+  "repository": "https://github.com/piercefreeman/use-editable",
   "bugs": {
-    "url": "https://github.com/FormidableLabs/use-editable/issues"
+    "url": "https://github.com/piercefreeman/use-editable/issues"
   },
   "scripts": {
     "check": "tsc",
